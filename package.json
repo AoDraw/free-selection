@@ -1,0 +1,25 @@
+{
+  "name": "free-selection",
+  "version": "0.1.0",
+  "description": "Select a rectangle area with your mouse on web page in JavaScript.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AoDraw/free-selection.git"
+  },
+  "keywords": [
+    "selection"
+  ],
+  "author": "AoDraw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AoDraw/free-selection/issues"
+  },
+  "homepage": "https://github.com/AoDraw/free-selection#readme"
+}
